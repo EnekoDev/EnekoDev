@@ -1,13 +1,41 @@
-# Welcome to my profile!
+# Eneko Olabarria
+Web Developer • Linux enthusiast
 
-My name is Eneko, I'm a Web Developer working with JS, PHP and Python.
-I also have worked with Java and Kotlin.
+## Welcome to my profile!
 
-In my profile you can find some proyects and exercises I use to learn new skills (and sometimes refresh skills I have not use for a while)
+Hi! I'm **Eneko**, a **Web Developer** working mainly with **JS, PHP, and Python**.
+
+I enjoy building web applications, learning new technologies, and improving my skills through side projects and experiments.
+
+I'm passionate about **Free and Open Source Software (FOSS)** and the **Linux ecosystem**, and I use Arch as my OS both working and everyday life.
+
+I also have experience working with **Java** and **Kotlin**.
+
+---
+
+## Tech Stack
+
+- JS (TS, React, Vue, JQuery)
+- PHP (WordPress, Laravel, Symfony)
+- Python
+- Java (Spring)
+- Kotlin (Android, Spring)
+
+---
+
+## Projects
+
+In this profile you’ll find different **projects, experiments, and exercises** I use to:
+
+- Learn new technologies
+- Practice development concepts
+- Refresh skills I haven’t used in a while
+
+---
 
 ## Contact
 
-I'm open for proyects and freelance work!
+I'm currently **open to freelance work and collaborations**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eneko-olabarria-se%C3%B1oran-8b8b8015b/">
