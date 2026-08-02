@@ -18,8 +18,6 @@ I also have experience working with **Java** and **Kotlin**.
 - JS (TS, React, Vue, JQuery)
 - PHP (WordPress, Laravel, Symfony)
 - Python
-- Java (Spring)
-- Kotlin (Android, Spring)
 
 ---
 
